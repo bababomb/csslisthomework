@@ -10,3 +10,10 @@ h2 {
   color: red;
   margin-left: 10px;
 }
+
+img {border-radius: 25px;
+}
+
+img {
+  box-shadow: 10px 10px;
+}
